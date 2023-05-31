@@ -1,3 +1,4 @@
+#this program generates a students email address from their firstname, lastname and matric number
 def email_gen(firstname, lastname, matric_no):
     firstname = firstname.lower()
     lastname = lastname.lower()
